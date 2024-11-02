@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egeluevu.github.io/HmD/sitemap_index.txt
+Sitemap: https://egeluevu.github.io/ZqG/sitemap_index.txt
+Sitemap: https://egeluevu.github.io/afv/sitemap_index.txt
+Sitemap: https://egeluevu.github.io/mDt/sitemap_index.txt
